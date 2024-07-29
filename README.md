@@ -59,7 +59,7 @@
 </div>
 
 ###
-
+# Progresso 🐍
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KaduSR/KaduSR/output/snake.svg" alt="Snake animation" />
