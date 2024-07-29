@@ -18,8 +18,10 @@ Estou ansioso para aprender, crescer e, quem sabe, colaborar em projetos incrív
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# 📊 Estatísticas no GitHu
+# 📊 Estatísticas no Github
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaduSR&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 
 
 # 🚀 Linguagens Mais Usadas
