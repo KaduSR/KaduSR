@@ -27,7 +27,7 @@ Estou ansioso para aprender, crescer e, quem sabe, colaborar em projetos incrív
 # 🚀 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaduSR&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KaduSR/KaduSR/output/github-contribution-grid-snake.svg" />
+
 <br>
 
 <h1 align="center">
