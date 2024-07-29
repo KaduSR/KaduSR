@@ -1,4 +1,7 @@
-# KaduSR
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Carlos!;" />
+</h1>
+
 Olá! Meu nome é Carlos, mas todos me chamam de Kadu. Estou dando meus primeiros passos na jornada da programação e, a cada dia, me esforço para trilhar o caminho para me tornar um desenvolvedor fullstack.
 
 Com 8 anos de experiência trabalhando em um provedor de internet, adquiri um sólido conhecimento na área de redes. Agora, estou entusiasmado para expandir meus horizontes e mergulhar no mundo do desenvolvimento de software.
@@ -18,6 +21,14 @@ Estou ansioso para aprender, crescer e, quem sabe, colaborar em projetos incrív
 # 📊 Estatísticas no GitHu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaduSR&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+
 # 🚀 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaduSR&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</h1>
+
+
