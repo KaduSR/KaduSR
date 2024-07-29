@@ -16,7 +16,7 @@
 ###
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+vindo;+Meu+Padwan;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+vindo+✌️;+Meu+Padwan;" />
 </h1>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 ###
 
-# Conecte-se Comigo
+# 👏 Conecte-se Comigo
 <div align="left">
   <a href="https://www.instagram.com/caduribeiro_tv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -59,7 +59,7 @@
 </div>
 
 ###
-# Progresso 🐍
+# 🐍 Progresso 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KaduSR/KaduSR/output/snake.svg" alt="Snake animation" />
