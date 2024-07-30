@@ -19,9 +19,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+vindo+▬▬ι═══════ﺤ;+Meu+Padwan;" />
 </h1>
 
+
+###
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/3o7abBAEIlO4kWucQ8/giphy.gif"  />
+  <img height="200" src="https://th.bing.com/th/id/R.dcac8b3a9e70104f06a71b3326979f88?rik=XBUkDMj9s0dbnQ&riu=http%3a%2f%2fmedia.tumblr.com%2f2ee21adecd54575a661b27f18ed91ab3%2ftumblr_inline_mm9yalKm1l1rl9pby.gif&ehk=1Ra2nTE0WxMZlXAVq4oVi%2bVsjQGxNQxbPbvnEYRVlGY%3d&risl=&pid=ImgRaw&r=0"  />
 </div>
+
+###
 
 ###
 
