@@ -6,15 +6,6 @@
 
 ###
 
-# 📊 Estatísticas no Github
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaduSR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaduSR&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Habilidades" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+vindo+▬▬ι═══════ﺤ;+Meu+Padwan;" />
 </h1>
@@ -90,11 +81,31 @@
 
 ###
 
-# 🐍 Progresso 
+# 🚀 Progresso
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/KaduSR/KaduSR/output/snake.svg" alt="Snake animation" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Status" />
+
+###
+
+# 📊 Estatísticas no Github
+
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 1rem;">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="display: inline-block;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaduSR&theme=dracula&utcOffset=-3"
+      alt="GitHub Commits"
+    />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="display: inline-block;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaduSR&theme=dracula"
+      alt="GitHub Details"
+    />
+  </a>
+</div>
 
 
 
