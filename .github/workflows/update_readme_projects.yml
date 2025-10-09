@@ -10,7 +10,6 @@ jobs:
   update_readme:
     name: Update README with Recent Activity
     runs-on: ubuntu-latest
-    # Adiciona permissão explícita para escrever no repositório
     permissions:
       contents: write
 
@@ -18,11 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🐞 DEBUG: Display README.md content
+      - name: DEBUG - Display README content
         run: |
-          echo "--- Conteúdo do README.md que a Action está vendo ---"
+          echo "--- Content of README.md as seen by the Action ---"
           cat README.md
-          echo "----------------------------------------------------"
+          echo "--------------------------------------------------"
 
       - name: Update README with recent posts
         uses: gautamkrishnar/blog-post-workflow@v1
