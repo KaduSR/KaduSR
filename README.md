@@ -40,7 +40,7 @@ Meu nome é Carlos, mas pode me chamar de **Kadu**. Sou um profissional com 8 an
 
 ### 💻 Stack de Tecnologias
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
+Aqui estão algumas das tecnologias com as quais tenho estudado:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,7 +57,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
     <td width="50%">
       <h3 align="center">Gerenciador de Prompts</h3>
       <a href="https://github.com/KaduSR/Gerenciador-de-Prompts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaduSR&repo=Gerenciador-de-Prompts&theme=dracula&show_owner=true" alt="Card do Projeto Gerenciador de Prompts">
+        <img src="https://raw.githubusercontent.com/KaduSR/Gerenciador-de-Prompts/main/assets/print.png" alt="Prévia do projeto Gerenciador de Prompts" style="width:50%;">
       </a>
       <p align="center">
         <a href="https://prompts.kadudev.com/">
