@@ -10,20 +10,27 @@ jobs:
   update_readme:
     name: Update README with Recent Activity
     runs-on: ubuntu-latest
+    # Adiciona permissão explícita para escrever no repositório
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
-        
+
+      - name: 🐞 DEBUG: Display README.md content
+        run: |
+          echo "--- Conteúdo do README.md que a Action está vendo ---"
+          cat README.md
+          echo "----------------------------------------------------"
+
       - name: Update README with recent posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Link público das suas atividades no GitHub.
+          readme_path: 'README.md'
           feed_list: "https://github.com/KaduSR.atom"
-          # Nome dos marcadores no README.md
           comment_tag_name: "PROJECT-LIST"
-          # Template para cada item da lista
           template: "- [$title]($url)"
-          # Máximo de itens para mostrar
           max_post_count: 5
-          # Desativa a ordenação padrão para usar a do feed
           disable_sort: true
+          commit_message: "chore: update recent activity"
