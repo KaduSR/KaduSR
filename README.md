@@ -9,7 +9,7 @@
 <div align="center">
   <a href="#-sobre-mim">Sobre Mim</a> •
   <a href="#-stack-de-tecnologias">Tecnologias</a> •
-  <a href="#-projetos-em-destaque">Projetos</a> •
+  <a href="#-projetos-recentes">Projetos</a> •
   <a href="#-conecte-se-comigo">Contato</a>
 </div>
 
@@ -40,7 +40,7 @@ Meu nome é Carlos, mas pode me chamar de **Kadu**. Sou um profissional com 8 an
 
 ### 💻 Stack de Tecnologias
 
-Aqui estão algumas das tecnologias com as quais tenho estudado:
+Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,36 +50,7 @@ Aqui estão algumas das tecnologias com as quais tenho estudado:
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<table align="center">
-  <tr align="center" valign="top">
-    <td width="50%">
-      <h3 align="center">Gerenciador de Prompts</h3>
-      <a href="https://github.com/KaduSR/Gerenciador-de-Prompts">
-        <img src="https://raw.githubusercontent.com/KaduSR/Gerenciador-de-Prompts/main/assets/print.png" alt="Prévia do projeto Gerenciador de Prompts" style="width:50%;">
-      </a>
-      <p align="center">
-        <a href="https://prompts.kadudev.com/">
-          <strong>Acesse a demonstração ➔</strong>
-        </a>
-      </p>
-      <p>Uma aplicação web para criar, salvar e gerenciar prompts de forma eficiente, construída com HTML, CSS e JavaScript puro.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Seu Próximo Projeto</h3>
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaduSR&repo=SEU_REPO&theme=dracula&show_owner=true" alt="Card do seu próximo projeto">
-      </a>
-      <p align="center">
-        <a href="#">
-          <strong>Acesse a demonstração ➔</strong>
-        </a>
-      </p>
-      <p>Uma breve descrição do seu projeto aqui.</p>
-    </td>
-  </tr>
-</table>
+### 🚀 Projetos Recentes
 
 ---
 
@@ -98,3 +69,4 @@ Aqui estão algumas das tecnologias com as quais tenho estudado:
   <a href="mailto:kaduesr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/kaduesr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.twitch.tv/kadulion" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+</p>
