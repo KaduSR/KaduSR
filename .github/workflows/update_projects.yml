@@ -1,0 +1,28 @@
+name: Update Pinned Projects
+
+on:
+  schedule:
+    # Roda a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    name: Update README with Pinned Repos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # URL do feed RSS dos seus repositórios fixados (pinned)
+          feed_list: "https://github.com/KaduSR/KaduSR.private.atom?token=SEU_TOKEN_AQUI"
+          # Template para cada item da lista
+          item_show_description: "false"
+          item_show_image: "false"
+          item_show_tags: "false"
+          # Número máximo de projetos para mostrar
+          max_post_count: 6
+          # Estrutura de como cada linha será exibida
+          template: "### [$title]($url) \n* $description \n\n"
