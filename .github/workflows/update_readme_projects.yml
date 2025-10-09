@@ -1,4 +1,4 @@
-name: Update README with Recent Projects
+name: Update README with Recent Activity
 
 on:
   schedule:
@@ -7,27 +7,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_projects:
-    name: Update recent projects in README
+  update_readme:
+    name: Update README with Recent Activity
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Update project list
+        
+      - name: Update README with recent posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Link público das suas atividades no GitHub. Não precisa de token!
+          # Link público das suas atividades no GitHub.
           feed_list: "https://github.com/KaduSR.atom"
-          # Filtra para mostrar apenas repositórios novos ou atualizados
-          filter_entries: "((feed.title.includes('pushed to') || feed.title.includes('created repository')) && !feed.title.includes('KaduSR/KaduSR'))"
           # Nome dos marcadores no README.md
           comment_tag_name: "PROJECT-LIST"
-          # Template para cada projeto na lista
-          template: "### [$title]($url) \n* $description \n\n"
-          # Número máximo de projetos para mostrar
-          max_post_count: 4
-          # Ordena os posts por data de publicação
-          sort_by: "published"
-          # Remove o título do feed, deixando a lista mais limpa
-          remove_feed_title: true
+          # Template para cada item da lista
+          template: "- [$title]($url)"
+          # Máximo de itens para mostrar
+          max_post_count: 5
+          # Desativa a ordenação padrão para usar a do feed
+          disable_sort: true
