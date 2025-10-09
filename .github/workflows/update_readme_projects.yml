@@ -1,0 +1,33 @@
+name: Update README with Recent Projects
+
+on:
+  schedule:
+    # Roda a cada 4 horas
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update_projects:
+    name: Update recent projects in README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update project list
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Link público das suas atividades no GitHub. Não precisa de token!
+          feed_list: "https://github.com/KaduSR.atom"
+          # Filtra para mostrar apenas repositórios novos ou atualizados
+          filter_entries: "((feed.title.includes('pushed to') || feed.title.includes('created repository')) && !feed.title.includes('KaduSR/KaduSR'))"
+          # Nome dos marcadores no README.md
+          comment_tag_name: "PROJECT-LIST"
+          # Template para cada projeto na lista
+          template: "### [$title]($url) \n* $description \n\n"
+          # Número máximo de projetos para mostrar
+          max_post_count: 4
+          # Ordena os posts por data de publicação
+          sort_by: "published"
+          # Remove o título do feed, deixando a lista mais limpa
+          remove_feed_title: true
