@@ -17,10 +17,16 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaduSR&theme=dracula" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaduSR&theme=dracula&utcOffset=-3" height="180em" />
-</div>
+<table align="center">
+  <tr align="center">
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaduSR&theme=dracula" />
+    </td>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaduSR&theme=dracula&utcOffset=-3" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github.com/KaduSR/KaduSR/blob/output/snake.svg" alt="Snake animation" />
