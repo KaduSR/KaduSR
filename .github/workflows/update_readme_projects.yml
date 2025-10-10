@@ -1,53 +1,25 @@
-name: Atualizar README com repositórios
+- name: Buscar repositórios do usuário
+  uses: actions/github-script@v6
+  with:
+    github-token: ${{ secrets.GITHUB_TOKEN }}
+    script: |
+      const { data: repos } = await github.rest.repos.listForUser({
+        username: "KaduSR",
+        sort: "updated",
+        direction: "desc",
+        per_page: 5
+      });
 
-on:
-  schedule:
-    - cron: "0 0 * * 1" # roda toda segunda-feira à meia-noite (UTC)
-  workflow_dispatch: # permite rodar manualmente
+      const fs = require("fs");
+      let content = "### 🚀 Projetos Recentes\n\n";
+      for (const repo of repos) {
+        content += `- [${repo.name}](${repo.html_url})\n`;
+        content += `  > ${repo.description || "Sem descrição disponível"}\n\n`;
+      }
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
-
-      - name: Buscar repositórios do usuário
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const { data: repos } = await github.rest.repos.listForUser({
-              username: "KaduSR",
-              sort: "updated",
-              direction: "desc",
-              per_page: 5
-            });
-
-            const fs = require("fs");
-            let content = "### 🚀 Projetos Recentes\n\n";
-            for (const repo of repos) {
-                content += `- [${repo.name}](${repo.html_url})\n`;
-                content += `  > ${repo.description || "Sem descrição disponível"}\n\n`;
-              }
-            }
-
-            let readme = fs.readFileSync("README.md", "utf8");
-            readme = readme.replace(
-              /<!-- PROJECT-LIST:START -->([\\s\\S]*?)<!-- PROJECT-LIST:END -->/,
-              `<!-- PROJECT-LIST:START -->\n${content}<!-- PROJECT-LIST:END -->`
-            );
-            fs.writeFileSync("README.md", readme);
-
-      - name: Commit e push das alterações
-        run: |
-          git config user.name "blog-post-bot"
-          git config user.email "blog-post-bot@example.com"
-          git add README.md
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: atualizar lista de projetos"
-            git push
-          else
-            echo "Nenhuma alteração detectada no README.md"
-          fi
+      let readme = fs.readFileSync("README.md", "utf8");
+      readme = readme.replace(
+        /<!-- PROJECT-LIST:START -->([\\s\\S]*?)<!-- PROJECT-LIST:END -->/,
+        `<!-- PROJECT-LIST:START -->\n${content}<!-- PROJECT-LIST:END -->`
+      );
+      fs.writeFileSync("README.md", readme);
