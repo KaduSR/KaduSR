@@ -28,9 +28,8 @@ jobs:
             const fs = require("fs");
             let content = "### 🚀 Projetos Recentes\n\n";
             for (const repo of repos) {
-              content += `- [${repo.name}](${repo.html_url})\n`;
-              if (repo.description) {
-                content += `  > ${repo.description}\n\n`;
+                content += `- [${repo.name}](${repo.html_url})\n`;
+                content += `  > ${repo.description || "Sem descrição disponível"}\n\n`;
               }
             }
 
