@@ -1,35 +1,48 @@
-name: Update README with Recent Activity
+name: Atualizar README com repositórios
 
 on:
   schedule:
-    # Roda a cada 4 horas
-    - cron: "0 */4 * * *"
+    - cron: "0 0 * * 1" # roda toda segunda-feira
   workflow_dispatch:
 
 jobs:
-  update_readme:
-    name: Update README with Recent Activity
+  update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: DEBUG - Display README content
-        run: |
-          echo "--- Content of README.md as seen by the Action ---"
-          cat README.md
-          echo "--------------------------------------------------"
-
-      - name: Update README with recent posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Buscar repositórios
+        uses: actions/github-script@v6
         with:
-          readme_path: 'README.md'
-          feed_list: "https://github.com/KaduSR.atom"
-          comment_tag_name: "PROJECT-LIST"
-          template: "- [$title]($url)"
-          max_post_count: 5
-          disable_sort: true
-          commit_message: "chore: update recent activity"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: repos } = await github.repos.listForUser({
+              username: "KaduSR",
+              sort: "updated",
+              direction: "desc",
+              per_page: 5
+            });
+
+            const fs = require("fs");
+            let content = "### 🚀 Projetos Recentes\n\n";
+            for (const repo of repos) {
+              content += `- [${repo.name}](${repo.html_url})\n`;
+              if (repo.description) {
+                content += `  > ${repo.description}\n\n`;
+              }
+            }
+
+            let readme = fs.readFileSync("README.md", "utf8");
+            readme = readme.replace(
+              /<!-- PROJECT-LIST:START -->([\\s\\S]*?)<!-- PROJECT-LIST:END -->/,
+              `<!-- PROJECT-LIST:START -->\n${content}<!-- PROJECT-LIST:END -->`
+            );
+            fs.writeFileSync("README.md", readme);
+
+      - name: Commit e push
+        run: |
+          git config user.name "blog-post-bot"
+          git config user.email "blog-post-bot@example.com"
+          git add README.md
+          git commit -m "chore: atualizar lista de projetos"
+          git push
