@@ -2,16 +2,18 @@ name: Atualizar README com repositórios
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # roda toda segunda-feira
-  workflow_dispatch:
+    - cron: "0 0 * * 1" # roda toda segunda-feira à meia-noite (UTC)
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Buscar repositórios
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Buscar repositórios do usuário
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -39,15 +41,14 @@ jobs:
             );
             fs.writeFileSync("README.md", readme);
 
-    - name: Commit e push
-      run: |
-        git config user.name "blog-post-bot"
-        git config user.email "blog-post-bot@example.com"
-        git add README.md
-        if ! git diff --cached --quiet; then
-          git commit -m "chore: atualizar lista de projetos"
-          git push
-        else
-          echo "Nenhuma alteração detectada no README.md"
-        fi
-
+      - name: Commit e push das alterações
+        run: |
+          git config user.name "blog-post-bot"
+          git config user.email "blog-post-bot@example.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: atualizar lista de projetos"
+            git push
+          else
+            echo "Nenhuma alteração detectada no README.md"
+          fi
