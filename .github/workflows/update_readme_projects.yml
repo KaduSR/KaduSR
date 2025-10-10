@@ -16,12 +16,13 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const { data: repos } = await github.repos.listForUser({
-              username: "KaduSR",
-              sort: "updated",
-              direction: "desc",
-              per_page: 5
-            });
+           const { data: repos } = await github.rest.repos.listForUser({
+  username: "KaduSR",
+  sort: "updated",
+  direction: "desc",
+  per_page: 5
+});
+
 
             const fs = require("fs");
             let content = "### 🚀 Projetos Recentes\n\n";
