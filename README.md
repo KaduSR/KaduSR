@@ -57,7 +57,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 ---
 
 ### 🚀 Projetos Recentes
-
+<!-- PROJECT-LIST:START -->
+<!-- PROJECT-LIST:END -->
 ---
 
 ###  contributions-graph Gráfico de Contribuições 3D
