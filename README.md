@@ -57,7 +57,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 ---
 
 ### 🚀 Projetos Recentes
-<!-- PROJECT-LIST:START -->- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/799aff0b0f...725c7b333c)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/d1fa61b769...799aff0b0f)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/77b699bc10...d1fa61b769)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/d5ab468a37...77b699bc10)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/0887f77e43...d5ab468a37)<!-- PROJECT-LIST:END -->
+
 ---
 
 ###  contributions-graph Gráfico de Contribuições 3D
