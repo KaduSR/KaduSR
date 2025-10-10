@@ -1,25 +1,35 @@
-- name: Buscar repositórios do usuário
-  uses: actions/github-script@v6
-  with:
-    github-token: ${{ secrets.GITHUB_TOKEN }}
-    script: |
-      const { data: repos } = await github.rest.repos.listForUser({
-        username: "KaduSR",
-        sort: "updated",
-        direction: "desc",
-        per_page: 5
-      });
+name: Update README with Recent Activity
 
-      const fs = require("fs");
-      let content = "### 🚀 Projetos Recentes\n\n";
-      for (const repo of repos) {
-        content += `- [${repo.name}](${repo.html_url})\n`;
-        content += `  > ${repo.description || "Sem descrição disponível"}\n\n`;
-      }
+on:
+  schedule:
+    # Roda a cada 4 horas
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
 
-      let readme = fs.readFileSync("README.md", "utf8");
-      readme = readme.replace(
-        /<!-- PROJECT-LIST:START -->([\\s\\S]*?)<!-- PROJECT-LIST:END -->/,
-        `<!-- PROJECT-LIST:START -->\n${content}<!-- PROJECT-LIST:END -->`
-      );
-      fs.writeFileSync("README.md", readme);
+jobs:
+  update_readme:
+    name: Update README with Recent Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: DEBUG - Display README content
+        run: |
+          echo "--- Content of README.md as seen by the Action ---"
+          cat README.md
+          echo "--------------------------------------------------"
+
+      - name: Update README with recent posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          readme_path: 'README.md'
+          feed_list: "https://github.com/KaduSR.atom"
+          comment_tag_name: "PROJECT-LIST"
+          template: "- [$title]($url)"
+          max_post_count: 5
+          disable_sort: true
+          commit_message: "chore: update recent activity"
