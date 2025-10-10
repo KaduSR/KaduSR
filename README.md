@@ -32,7 +32,7 @@
   <img src="https://github.com/KaduSR/KaduSR/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
----
+
 
 ### 👨‍💻 Sobre Mim
 
@@ -85,6 +85,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
     </td>
   </tr>
 </table>
+
 ---
 
 ###  contributions-graph Gráfico de Contribuições 3D
