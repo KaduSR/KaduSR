@@ -40,9 +40,14 @@ jobs:
             fs.writeFileSync("README.md", readme);
 
       - name: Commit e push
-        run: |
-          git config user.name "blog-post-bot"
-          git config user.email "blog-post-bot@example.com"
-          git add README.md
-          git commit -m "chore: atualizar lista de projetos"
-          git push
+  run: |
+    git config user.name "blog-post-bot"
+    git config user.email "blog-post-bot@example.com"
+    git add README.md
+    if ! git diff --cached --quiet; then
+      git commit -m "chore: atualizar lista de projetos"
+      git push
+    else
+      echo "Nenhuma alteração detectada no README.md"
+    fi
+
