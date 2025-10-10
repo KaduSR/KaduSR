@@ -55,15 +55,36 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 </p>
 
 ---
-### 🚀 Projetos Recentes
+### 🚀 Projetos em Destaque
 
-<!-- PROJECT-LIST:START -->- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/41b8ae4597...123882220a)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/bc4f905212...41b8ae4597)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/8265c96adf...bc4f905212)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/526fb84467...8265c96adf)- [KaduSR pushed KaduSR](https://github.com/KaduSR/KaduSR/compare/9d47976770...526fb84467)<!-- PROJECT-LIST:END -->
-
-
-
-
-
-
+<table align="center">
+  <tr align="center" valign="top">
+    <td width="50%">
+      <h3 align="center">Gerenciador de Prompts</h3>
+      <a href="https://github.com/KaduSR/Gerenciador-de-Prompts">
+        <img src="https://raw.githubusercontent.com/KaduSR/Gerenciador-de-Prompts/main/assets/print.png" alt="Prévia do projeto Gerenciador de Prompts" style="width:50%;">
+      </a>
+      <p align="center">
+        <a href="https://prompts.kadudev.com/">
+          <strong>Acesse a demonstração ➔</strong>
+        </a>
+      </p>
+      <p>Uma aplicação web para criar, salvar e gerenciar prompts de forma eficiente, construída com HTML, CSS e JavaScript puro.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Seu Próximo Projeto</h3>
+      <a href="#">
+        <img src="https://via.placeholder.com/400x200?text=Seu+Próximo+Projeto+Aqui" alt="Prévia do seu próximo projeto" style="width:100%;">
+      </a>
+      <p align="center">
+        <a href="#">
+          <strong>Acesse a demonstração ➔</strong>
+        </a>
+      </p>
+      <p>Uma breve descrição do seu projeto aqui.</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ###  contributions-graph Gráfico de Contribuições 3D
