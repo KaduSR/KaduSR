@@ -57,12 +57,14 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 ---
 ### 🚀 Projetos em Destaque
 
+### 🚀 Projetos em Destaque
+
 <table align="center">
   <tr align="center" valign="top">
     <td width="50%">
       <h3 align="center">Gerenciador de Prompts</h3>
       <a href="https://github.com/KaduSR/Gerenciador-de-Prompts">
-        <img src="https://raw.githubusercontent.com/KaduSR/Gerenciador-de-Prompts/main/assets/print.png" alt="Prévia do projeto Gerenciador de Prompts" style="width:50%;">
+        <img src="https://raw.githubusercontent.com/KaduSR/Gerenciador-de-Prompts/main/assets/print.png" alt="Prévia do projeto Gerenciador de Prompts" style="width:100%;">
       </a>
       <p align="center">
         <a href="https://prompts.kadudev.com/">
@@ -72,16 +74,16 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
       <p>Uma aplicação web para criar, salvar e gerenciar prompts de forma eficiente, construída com HTML, CSS e JavaScript puro.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Seu Próximo Projeto</h3>
-      <a href="#">
-        <img src="https://via.placeholder.com/400x200?text=Seu+Próximo+Projeto+Aqui" alt="Prévia do seu próximo projeto" style="width:100%;">
+      <h3 align="center">Agregador de Links</h3>
+      <a href="https://github.com/KaduSR/Discover-RockeatSeat">
+        <img src="https://raw.githubusercontent.com/KaduSR/Discover-RockeatSeat/main/assets/print.png" alt="Prévia do projeto Agregador de Links" style="width:100%;">
       </a>
       <p align="center">
-        <a href="#">
+        <a href="https://discovery-rocketseat.kadudev.com/">
           <strong>Acesse a demonstração ➔</strong>
         </a>
       </p>
-      <p>Uma breve descrição do seu projeto aqui.</p>
+      <p>Um agregador de links simples que serve como um cartão de visitas virtual, com seletor de tema claro/escuro. Desenvolvido no curso Discover da Rocketseat.</p>
     </td>
   </tr>
 </table>
