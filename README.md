@@ -72,12 +72,12 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
       <p>Uma aplicação web para criar, salvar e gerenciar prompts de forma eficiente, construída com HTML, CSS e JavaScript puro.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Agregador de Links</h3>
-      <a href="https://github.com/KaduSR/Discover-RockeatSeat">
-        <img src="https://raw.githubusercontent.com/KaduSR/Discover-RockeatSeat/main/assets/print.png" alt="Prévia do projeto Agregador de Links" style="width:100%;">
+      <h3 align="center">MyFlix</h3>
+      <a href="https://github.com/KaduSR/MyFlix">
+        <img src="https://raw.githubusercontent.com/KaduSR/MyFlix/main/docs/print.png" alt="Prévia do projeto Agregador de Links" style="width:100%;">
       </a>
       <p align="center">
-        <a href="https://discovery-rocketseat.kadudev.com/">
+        <a href="https://myflix.kadudev.com/">
           <strong>Acesse a demonstração ➔</strong>
         </a>
       </p>
