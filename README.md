@@ -57,8 +57,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 ---
 ### 🚀 Projetos em Destaque
 
-### 🚀 Projetos em Destaque
-
 <table align="center">
   <tr align="center" valign="top">
     <td width="50%">
