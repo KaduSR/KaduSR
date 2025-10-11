@@ -25,12 +25,12 @@
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSR&layout=compact&langs_count=7&theme=dracula"/>
        </a>
    </td>
-   <td width=30% valign=center>
+   <td width=33% valign=center>
 <a href="https://github.com/KaduSR">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaduSR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    </a>
    </td>
-   <td width=30% valign=center>
+   <td width=33% valign=center>
    <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KaduSR&theme=dracula&hide_border=true" />
   </a>
