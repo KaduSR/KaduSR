@@ -77,7 +77,6 @@
       <h3 align="center">Gerenciador de Prompts</h3>
       <a href="https://github.com/KaduSR/Gerenciador-de-Prompts">
         <img src="https://raw.githubusercontent.com/KaduSR/Gerenciador-de-Prompts/main/assets/print.png" alt="Prévia do projeto Gerenciador de Prompts" style="width:100%;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaduSR&repo=Gerenciador-de-Prompts&theme=dracula&show_owner=true" alt="Gerenciador de Prompts">
       </a>
       <p align="center">
         <a href="https://prompts.kadudev.com/">
@@ -90,7 +89,6 @@
       <h3 align="center">MyFlix</h3>
       <a href="https://github.com/KaduSR/MyFlix">
         <img src="https://raw.githubusercontent.com/KaduSR/MyFlix/main/docs/print.png" alt="Prévia do projeto Agregador de Links" style="width:100%;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaduSR&repo=MyFlix&theme=dracula&show_owner=true" alt="MyFlix">
       </a>
       <p align="center">
         <a href="https://myflix.kadudev.com/">
