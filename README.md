@@ -39,13 +39,12 @@
 
 </table>
 
-### 👨‍💻 Sobre Mim
-
+---
+ <h3>👨‍💻 Sobre Mim</h3>
 <div align="center">
 <table width="95%">
   <tr>
-    <td width="60%" valign="middle">
-      <h3 align="center">👨‍💻 Sobre Mim</h3>
+    <td width="60%" valign="top">     
       <p>Meu nome é Carlos, mas pode me chamar de <strong>Kadu</strong>. Sou um profissional com 8 anos de experiência sólida em redes de internet, e atualmente estou em uma jornada de transição de carreira, mergulhando de cabeça nos estudos para me tornar um <strong>Desenvolvedor Full Stack</strong>.</p>
       <ul>
           <li>🌱 Atualmente, estou focando em aprimorar minhas habilidades em <strong>JavaScript, TypeScript e Java</strong>.</li>
@@ -53,7 +52,7 @@
           <li>💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia ou para futuras colaborações.</li>
       </ul>
     </td>
-    <td width="40%" valign="middle">
+    <td width="40%" valign="top">
       <h3 align="center">💻 Stack Principal</h3>
       <p align="center">
         <a href="https://skillicons.dev">
