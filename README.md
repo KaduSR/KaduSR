@@ -6,10 +6,14 @@
   <strong>Um entusiasta de tecnologia em transição de carreira para o mundo do desenvolvimento de software.</strong>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kadusr&label=Visitantes+do+Perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
+</p>
+
 <div align="center">
   <a href="#-sobre-mim">Sobre Mim</a> •
   <a href="#-stack-de-tecnologias">Tecnologias</a> •
-  <a href="#-projetos-recentes">Projetos</a> •
+  <a href="#-projetos-em-destaque">Projetos</a> •
   <a href="#-conecte-se-comigo">Contato</a>
 </div>
 
@@ -19,7 +23,6 @@
 
 <table width=100% align=center>
 <tr>
-
    <td width=30% valign=center>
    <a href="https://github.com/KaduSR">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSR&layout=compact&langs_count=7&theme=dracula"/>
@@ -31,39 +34,32 @@
    </a>
    </td>
 </tr>
-
 </table>
 
 ---
- <h3>👨‍💻 Sobre Mim</h3>
-<div align="center">
-<table width="95%">
-  <tr>
-    <td width="60%" valign="top">     
-      <p>Meu nome é Carlos, mas pode me chamar de <strong>Kadu</strong>. Sou um profissional com 8 anos de experiência sólida em redes de internet, e atualmente estou em uma jornada de transição de carreira, mergulhando de cabeça nos estudos para me tornar um <strong>Desenvolvedor Full Stack</strong>.</p>
-      <ul>
-          <li>🌱 Atualmente, estou focando em aprimorar minhas habilidades em <strong>JavaScript, TypeScript e Java</strong>.</li>
-          <li>🚀 Busco oportunidades para colaborar em projetos e transformar ideias em código funcional.</li>
-          <li>💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia ou para futuras colaborações.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3 align="center">💻 Stack Principal</h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,vscode,html,css,javascript,typescript,angular,java,nextjs&perline=4" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
-<br/>
 
+<h3 id="-sobre-mim">👨‍💻 Sobre Mim</h3>
+
+<p>Meu nome é Carlos, mas pode me chamar de <strong>Kadu</strong>. Sou um profissional com 8 anos de experiência sólida em redes de internet, e atualmente estou em uma jornada de transição de carreira, mergulhando de cabeça nos estudos para me tornar um <strong>Desenvolvedor Full Stack</strong>.</p>
+<ul>
+    <li>🌱 Atualmente, estou focando em aprimorar minhas habilidades em <strong>JavaScript, TypeScript e Java</strong>.</li>
+    <li>🚀 Busco oportunidades para colaborar em projetos e transformar ideias em código funcional.</li>
+    <li>💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia ou para futuras colaborações.</li>
+</ul>
 
 ---
 
-### 🚀 Projetos em Destaque
+<h3 id="-stack-de-tecnologias">💻 Stack de Tecnologias</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,javascript,typescript,angular,react,nodejs,java,spring,nextjs&perline=6" />
+  </a>
+</p>
+
+---
+
+<h3 id="-projetos-em-destaque">🚀 Projetos em Destaque</h3>
 
 <table align="center">
   <tr align="center" valign="top">
@@ -107,11 +103,10 @@
 
 ---
 
-<h3 align="center">📬 Entre em Contato</h3>
+<h3 align="center" id="-conecte-se-comigo">📬 Entre em Contato</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaduesr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kaduesr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/kaduesr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 </p>
