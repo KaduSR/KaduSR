@@ -81,11 +81,14 @@ Atualmente, meu foco é o desenvolvimento **Full Stack** com **React, Next.js, N
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-  <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=KaduSR&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaduSR&theme=dracula" />
 </div>
 
 ---
 
 <div align="center" size="100px">
-  <sub>Feito com 🎸 e muito código por <a href="https://kadudev.com">Kadu Ribeiro</a></sub>
+  <sub>Feito com 🎸 e muito código por <a href="https://kadudev.com">Kadu Ribeiro</a>
+
+[![GitHub](https://img.shields.io/github/followers/KaduSR?label=follow&style=social)](github.com/kaduSR)</sub>
+
 </div>
