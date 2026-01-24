@@ -1,118 +1,76 @@
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1,+seja+bem-vindo(a)!;Me+chamo+Carlos+Eduardo."
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kadu+Dev;Transformando+café+em+código;Rock+%27n%27+Roll+%26+Software;Bem-vindo+ao+meu+universo!" />
 </h1>
 
-<p align="center">
-  <strong>Um entusiasta de tecnologia em transição de carreira para o desenvolvimento de software.</strong>
-</p>
+<div align="center">
+  
+  ### Desenvolvedor Full Stack em Formação 🚀
+ 
+  <p align="center">
+     <a href="https://kadudev.com" target="_blank">
+       <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+     </a>
+    <a href="mailto:kaduesr@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/kaduesr">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=kadusr&label=Visitantes+do+Perfil&color=0e75b6&style=flat"
-    alt="Contador de Visitas"
-  />
-</p>
+## 🤘 Sobre Mim
+
+Mais do que transformar café em código, transformo desafios em aprendizado. Minha jornada na tecnologia é impulsionada por uma bagagem de **9 anos no setor de Telecomunicações**, onde desenvolvi a maturidade profissional e a capacidade de resolver problemas críticos que hoje aplico na **Engenharia de Software**.
+
+Atualmente, meu foco é o desenvolvimento **Full Stack** com **React, Next.js, Node.js e TypeScript**. Estou em constante evolução, buscando não apenas escrever código que funcione, mas construir arquiteturas limpas e escaláveis.
+
+> _"Seja debugando um erro complexo ou tentando acertar aquele solo difícil na guitarra, o segredo é o mesmo: persistência, prática deliberada e a busca diária por ser melhor do que ontem."_
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <a href="#-sobre-mim">Sobre Mim</a> •
-  <a href="#-stack-de-tecnologias">Tecnologias</a> •
-  <a href="#-projetos-em-destaque">Projetos</a> •
-  <a href="#-conecte-se-comigo">Contato</a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,prisma,tailwind,git,vite,html,css&theme=dark" />
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+## ⚡ GitHub Stats
 
-<table width="100%" align="center">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaduSR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSR&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br>
+
+---
+
+## 🏆 Projetos em Destaque
+
+<table>
   <tr>
-    <td width="50%" valign="center" align="center">
-      <a href="https://github.com/KaduSR">
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSR&layout=compact&langs_count=7&theme=dracula"
-        />
-      </a>
-    </td>
-    <td width="50%" valign="center" align="center">
-      <a href="https://github.com/KaduSR">
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api?username=KaduSR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 👨‍💻 Sobre Mim
-
-Meu nome é Carlos, mas pode me chamar de <strong>Kadu</strong>. Tenho cerca de 8 anos de experiência com redes de internet e infraestrutura, e atualmente estou em transição de carreira para atuar como <strong>Desenvolvedor Full Stack</strong>.
-
-- 🌱 No momento, estou focado em aprimorar minhas habilidades em <strong>JavaScript, TypeScript e Java</strong>.
-- 🧠 Tenho bagagem em lógica, redes, sistemas e troubleshooting, o que me ajuda bastante no raciocínio de desenvolvimento.
-- 🚀 Busco oportunidades para colaborar em projetos reais, evoluir como desenvolvedor e transformar ideias em código funcional.
-- 💬 Gosto de trocar ideia sobre tecnologia, carreira e boas práticas de desenvolvimento.
-
----
-
-### 💻 Stack de Tecnologias
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=git,vscode,html,css,javascript,typescript,angular,react,nodejs,java,spring,nextjs&perline=6"
-    />
-  </a>
-</p>
-
----
-
-### 🚀 Projetos em Destaque
-
-<table align="center">
-  <tr align="top">
     <td width="50%">
-      <h3 align="center">Gerenciador de Prompts</h3>
-      <a href="https://github.com/KaduSR/Gerenciador-de-Prompts">
-        <img
-          src="https://raw.githubusercontent.com/KaduSR/Gerenciador-de-Prompts/main/assets/print.png"
-          alt="Prévia do projeto Gerenciador de Prompts"
-          style="width: 100%;"
-        />
-      </a>
+      <h3 align="center">🎬 MyFlix</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/KaduSR/Portfolio-Pessoal/main/assets/images/myflix-print.png" width="100%" alt="MyFlix" />
+      </div>
       <p align="center">
-        <a href="https://prompts.kadudev.com/">
-          <strong>Acesse a demonstração ➔</strong>
-        </a>
-      </p>
-      <p>
-        Aplicação web para criar, salvar e gerenciar prompts de forma organizada.
-        Desenvolvida com <strong>HTML, CSS e JavaScript puro</strong>, com foco em usabilidade e produtividade.
+        Interface inspirada na Netflix consumindo API do TMDB. Feito com <strong>React, TypeScript e Vite</strong>.
+        <br />
+        <a href="https://myflix.kadudev.com/"><strong>🔗 Ver Demo</strong></a>
       </p>
     </td>
-
     <td width="50%">
-      <h3 align="center">MyFlix</h3>
-      <a href="https://github.com/KaduSR/MyFlix">
-        <img
-          src="https://raw.githubusercontent.com/KaduSR/MyFlix/main/docs/print.png"
-          alt="Prévia do projeto MyFlix"
-          style="width: 100%;"
-        />
-      </a>
+      <h3 align="center">📡 Fiber NET Telecom</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/KaduSR/Portfolio-Pessoal/main/assets/images/fibernet-print.png" width="100%" alt="Fiber NET" />
+      </div>
       <p align="center">
-        <a href="https://myflix.kadudev.com/">
-          <strong>Acesse a demonstração ➔</strong>
-        </a>
-      </p>
-      <p>
-        Um agregador de links que funciona como um cartão de visitas virtual, com seletor de tema claro/escuro.
-        Projeto desenvolvido no curso <strong>Discover</strong> da Rocketseat, utilizando <strong>HTML, CSS e JavaScript</strong>.
+        Landing page institucional moderna e responsiva para provedor de internet.
+        <br />
+        <a href="https://fibernettelecom.com/"><strong>🔗 Fiber NET Telecom</strong></a>
       </p>
     </td>
   </tr>
@@ -120,37 +78,14 @@ Meu nome é Carlos, mas pode me chamar de <strong>Kadu</strong>. Tenho cerca de 
 
 ---
 
-### 🎨 Minhas Contribuições
+## 🐍 Minhas Contribuições
 
 <div align="center">
-  <img src="https://github.com/KaduSR/KaduSR/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de Contribuições 3D" />
+  <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=KaduSR&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<h3 align="center" id="-conecte-se-comigo">📬 Entre em Contato</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaduesr" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:kaduesr@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-  <a href="https://www.instagram.com/kaduesr" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-</p>
+<div align="center" size="100px">
+  <sub>Feito com 🎸 e muito código por <a href="https://kadudev.com">Kadu Ribeiro</a></sub>
+</div>
