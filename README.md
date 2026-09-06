@@ -1,14 +1,14 @@
 <!-- LANGUAGE_SELECTOR_START -->
 <details>
-<summary><b>🌐 Seletor de Idiomas / Language Selector</b></summary>
+<summary><b>Seletor de Idiomas / Language Selector</b></summary>
 
-| 🇧🇷 [Português](#-português) | 🇺🇸 [English](#-english) |
-|-------------------------------|---------------------------|
+| [Portugues](#-português) | [English](#-english) |
+|---------------------------|-----------------------|
 
 </details>
 <!-- LANGUAGE_SELECTOR_END -->
 
-# Kadu Ribeiro · Engenheiro de Software & UX/UI Designer
+# Kadu Ribeiro - Engenheiro de Software & UX/UI Designer
 
 <div align="center">
 
@@ -25,34 +25,34 @@
 
 ---
 
-## 🇧🇷 Português
+##  Portugues
 
-**Kadu Ribeiro** — Engenheiro de Software com **9 anos de experiência** no setor de Telecomunicações. Transformo ideias em produtos digitais de alto impacto combinando **engenharia de software robusta** com **design de interface focado no usuário**.
+**Kadu Ribeiro** — Engenheiro de Software com **9 anos de experiencia** no setor de Telecomunicacoes. Transformo ideias em produtos digitais de alto impacto combinando **engenharia de software robusta** com **design de interface focado no usuario**.
 
-Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.js, PostgreSQL e Prisma**, além de integrar soluções de **Inteligência Artificial** e automação para empresas de telecom e ISPs.
+Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.js, PostgreSQL e Prisma**, alem de integrar solucoes de **Inteligencia Artificial** e automacao para empresas de telecom e ISPs.
 
-### 💼 Experiência Profissional
+### Experiencia Profissional
 
-- **Tech Lead** — Nexus Flow Tech (Full Stack, IA, Automação)
+- **Tech Lead** — Nexus Flow Tech (Full Stack, IA, Automacao)
 - **Infraestrutura de Telecom** — FiberNET (monitoring, financial reconciliation, WhatsApp automation)
 - **Full Stack Development** — Node.js, Next.js, React, TypeScript, PostgreSQL, Prisma
 
-### 🛠 Tecnologias
+### Tecnologias
 
 | Categoria | Tecnologias |
 |-----------|-------------|
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
 | **Backend** | Node.js, Express, Python |
 | **Banco de Dados** | PostgreSQL, Prisma ORM, MongoDB |
-| **IA / Automação** | AI Agents, RAG, LLM Integration, Web Scraping |
+| **IA / Automacao** | AI Agents, RAG, LLM Integration, Web Scraping |
 | **DevOps** | Docker, Vercel, VPS (Ubuntu/Debian) |
 
-### 🏆 Projetos em Destaque
+### Projetos em Destaque
 
-| Projeto | Descrição |
+| Projeto | Descricao |
 |---------|-----------|
 | [Whaticket Fibernet](https://github.com/KaduSR/whaticket-fibernet) | SaaS de atendimento via WhatsApp com IA orchestrator |
-| [FiberNet Conciliador](https://github.com/KaduSR/fibernet-conciliador) | Conciliação financeira IXC × Sicoob |
+| [FiberNet Conciliador](https://github.com/KaduSR/fibernet-conciliador) | Conciliação financeira IXC x Sicoob |
 | [ISP Monitor](https://github.com/KaduSR/isp-monitor) | Dashboard de monitoramento de rede em tempo real |
 | [Nexus Core](https://github.com/KaduSR/nexus-core) | Engine de automação de infraestrutura ISP |
 | [IXC + Sicoob Reconciler](https://github.com/KaduSR/ixc-sicoob-reconciler) | Conciliação bancária automatizada |
@@ -61,9 +61,7 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 | [Whaticket SaaS](https://github.com/KaduSR/Whaticket-Saas) | Infra multi-tenant para Whaticket |
 | [Portfolio Pessoal](https://github.com/KaduSR/Portfolio-Pessoal) | Portfólio Next.js → [kadudev.com](https://kadudev.com) |
 
-### 📚 Todos os Projetos (39 repositórios)
-
-#### 🥇 Top 9 — Projetos Profissionais
+### Todos os Projetos (39 repositorios)
 
 1. [whaticket-fibernet](https://github.com/KaduSR/whaticket-fibernet) — SaaS WhatsApp + IA
 2. [fibernet-conciliador](https://github.com/KaduSR/fibernet-conciliador) — Conciliação financeira
@@ -74,11 +72,8 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 7. [web-scraper](https://github.com/KaduSR/web-scraper) — Raspagem Python
 8. [Whaticket-Saas](https://github.com/KaduSR/Whaticket-Saas) — Infra multi-tenant
 9. [Portfolio-Pessoal](https://github.com/KaduSR/Portfolio-Pessoal) — Portfólio → kadudev.com
-
-#### 🥈 Projetos Adicionais (29 repos)
-
 10. [GFT-Desenvolvimento-Java-com-IA](https://github.com/KaduSR/GFT-Desenvolvimento-Java-com-IA) — Bootcamp GFT Java+IA ⭐1
-11. [myflix-micro](https://github.com/KaduSR/myflix-micro) — Microserviço MyFlix
+11. [myflix-micro](https://github.com/KaduSR/myflix-micro) — MyFlix microservice
 12. [50-projetos-em-50-dias](https://github.com/KaduSR/50-projetos-em-50-dias) — Desafio 50 projetos
 13. [assistente-ia](https://github.com/KaduSR/assistente-ia) — Assistente IA
 14. [TelegramDownload](https://github.com/KaduSR/telegramdownload) — Downloader Telegram (Python)
@@ -87,7 +82,7 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 17. [taskflow](https://github.com/KaduSR/taskflow) — Gestão de tarefas
 18. [ecommerce-pro](https://github.com/KaduSR/ecommerce-pro) — E-commerce
 19. [design-system-aurora](https://github.com/KaduSR/design-system-aurora) — Design system
-20. [newsfeed](https://github.com/KaduSR/newsfeed) — Feed de notícias
+20. [newsfeed](https://github.com/KaduSR/newsfeed) — Feed de noticias
 21. [fittracker](https://github.com/KaduSR/fittracker) — Rastreador fitness
 22. [galleryview](https://github.com/KaduSR/galleryview) — Galeria de imagens
 23. [schedule-pro](https://github.com/KaduSR/schedule-pro) — Agendamento
@@ -95,7 +90,7 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 25. [paylink-saas](https://github.com/KaduSR/paylink-saas) — SaaS pagamentos
 26. [devblog-engine](https://github.com/KaduSR/devblog-engine) — Engine blog
 27. [landing-kit](https://github.com/KaduSR/landing-kit) — Landing pages
-28. [rockplayer](https://github.com/KaduSR/rockplayer) — Player música
+28. [rockplayer](https://github.com/KaduSR/rockplayer) — Player musica
 29. [MyFlix](https://github.com/KaduSR/MyFlix) — Plataforma streaming
 30. [HelpDesk](https://github.com/KaduSR/HelpDesk) — Help desk
 31. [helpdesk-front](https://github.com/KaduSR/helpdesk-front) — Front help desk
@@ -108,60 +103,56 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 38. [whaticket-plus-ixc-integration](https://github.com/KaduSR/whaticket-plus-ixc-integration) — Integração IXC
 39. [skills-introduction-to-github](https://github.com/KaduSR/skills-introduction-to-github) — Clone repo
 
----
+### Formacao Academica
 
-## 🎓 Formação Acadêmica
-
-| Grau | Instituição | Status |
+| Grau | Instituicao | Status |
 |------|------------|-----------|
-| **Pós-Graduação** | BookPlay — Engenharia de Software Métodos Ágeis (rv3W) | Em curso |
-| **MBA** | BookPlay — Inteligência Artificial para Gestão de Pessoas (rv3W) | Em curso |
-| **Graduação** | Anhanguera — Engenharia de Software | **Em curso** |
-| **Bacharelado** | Estácio de Sá — Administração | **Concluído** |
+| **Pos-Graduacao** | BookPlay — Engenharia de Software Metodos Ageis (rv3W) | Em curso |
+| **MBA** | BookPlay — Inteligencia Artificial para Gestao de Pessoas (rv3W) | Em curso |
+| **Graduacao** | Anhanguera — Engenharia de Software | **Em curso** |
+| **Bacharelado** | Estacio de Sa — Administracao | **Concluido** |
 
----
+### Contato
 
-### 📫 Contato
-
-| Canal | Informação |
+| Canal | Informacao |
 |-------|------------|
-| 📧 Email | [contato@kadudev.com](mailto:contato@kadudev.com) |
-| 💼 LinkedIn | [linkedin.com/in/kaduesr](https://linkedin.com/in/kaduesr) (500+ conexões) |
-| 📷 Instagram | [@kaduesr](https://instagram.com/kaduesr) |
-| ✈️ Telegram | [@kadudev](https://t.me/kadudev) |
-| 💬 WhatsApp | [(24) 99217-5577](https://wa.me/5524992175577) |
-| 🌐 Site | [kadudev.com](https://kadudev.com) |
+| Email | [contato@kadudev.com](mailto:contato@kadudev.com) |
+| LinkedIn | [linkedin.com/in/kaduesr](https://linkedin.com/in/kaduesr) (500+ conexoes) |
+| Instagram | [@kaduesr](https://instagram.com/kaduesr) |
+| Telegram | [@kadudev](https://t.me/kadudev) |
+| WhatsApp | [(24) 99217-5577](https://wa.me/5524992175577) |
+| Site | [kadudev.com](https://kadudev.com) |
 
 ---
 
-## 🇺🇸 English
+##  English
 
 **Kadu Ribeiro** — Software Engineer with **9 years of experience** in the Telecommunications sector. I transform ideas into high-impact digital products by combining **robust software engineering** with **user-focused interface design**.
 
 Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.js, PostgreSQL and Prisma**, plus integrating **Artificial Intelligence** solutions and automation for telecom companies and ISPs.
 
-### 💼 Professional Experience
+### Professional Experience
 
 - **Tech Lead** — Nexus Flow Tech (Full Stack, AI, Automation)
 - **Telecom Infrastructure** — FiberNET (monitoring, financial reconciliation, WhatsApp automation)
 - **Full Stack Development** — Node.js, Next.js, React, TypeScript, PostgreSQL, Prisma
 
-### 🛠 Technologies
+### Technologies
 
 | Category | Technologies |
 |----------|-------------|
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
 | **Backend** | Node.js, Express, Python |
 | **Database** | PostgreSQL, Prisma ORM, MongoDB |
-| **IA / Automation** | AI Agents, RAG, LLM Integration, Web Scraping |
+| **AI / Automation** | AI Agents, RAG, LLM Integration, Web Scraping |
 | **DevOps** | Docker, Vercel, VPS (Ubuntu/Debian) |
 
-### 🏆 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | [Whaticket Fibernet](https://github.com/KaduSR/whaticket-fibernet) | WhatsApp SaaS with AI orchestrator |
-| [FiberNet Conciliador](https://github.com/KaduSR/fibernet-conciliador) | IXC × Sicoob financial reconciliation |
+| [FiberNet Conciliador](https://github.com/KaduSR/fibernet-conciliador) | IXC x Sicoob financial reconciliation |
 | [ISP Monitor](https://github.com/KaduSR/isp-monitor) | Real-time network monitoring dashboard |
 | [Nexus Core](https://github.com/KaduSR/nexus-core) | ISP infrastructure automation engine |
 | [IXC + Sicoob Reconciler](https://github.com/KaduSR/ixc-sicoob-reconciler) | Automated bank reconciliation |
@@ -170,9 +161,7 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 | [Whaticket SaaS](https://github.com/KaduSR/Whaticket-Saas) | Multi-tenant Whaticket infrastructure |
 | [Personal Portfolio](https://github.com/KaduSR/Portfolio-Pessoal) | Next.js portfolio → [kadudev.com](https://kadudev.com) |
 
-### 📚 All Projects (39 repositories)
-
-#### 🥇 Top 9 — Professional Projects
+### All Projects (39 repositories)
 
 1. [whaticket-fibernet](https://github.com/KaduSR/whaticket-fibernet) — WhatsApp SaaS + AI
 2. [fibernet-conciliador](https://github.com/KaduSR/fibernet-conciliador) — Financial reconciliation
@@ -183,9 +172,6 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 7. [web-scraper](https://github.com/KaduSR/web-scraper) — Python scraping
 8. [Whaticket-Saas](https://github.com/KaduSR/Whaticket-Saas) — Multi-tenant infra
 9. [Portfolio-Pessoal](https://github.com/KaduSR/Portfolio-Pessoal) — Portfolio → kadudev.com
-
-#### 🥈 Additional Projects (29 repos)
-
 10. [GFT-Desenvolvimento-Java-com-IA](https://github.com/KaduSR/GFT-Desenvolvimento-Java-com-IA) — GFT Bootcamp Java+AI ⭐1
 11. [myflix-micro](https://github.com/KaduSR/myflix-micro) — MyFlix microservice
 12. [50-projetos-em-50-dias](https://github.com/KaduSR/50-projetos-em-50-dias) — 50 projects challenge
@@ -217,29 +203,25 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 38. [whaticket-plus-ixc-integration](https://github.com/KaduSR/whaticket-plus-ixc-integration) — IXC integration
 39. [skills-introduction-to-github](https://github.com/KaduSR/skills-introduction-to-github) — Clone repo
 
----
-
-## 🎓 Academic Background
+### Academic Background
 
 | Degree | Institution | Status |
 |--------|------------|--------|
 | **Post-Graduation** | BookPlay — Software Engineering Agile Methods (rv3W) | In progress |
 | **MBA** | BookPlay — AI for People Management (rv3W) | In progress |
 | **Graduation** | Anhanguera — Software Engineering | **In progress** |
-| **Bachelor's** | Estácio de Sá — Business Administration | **Completed** |
+| **Bachelor's** | Estacio de Sa — Business Administration | **Completed** |
 
----
-
-### 📫 Contact
+### Contact
 
 | Channel | Info |
 |-------|------|
-| 📧 Email | [contato@kadudev.com](mailto:contato@kadudev.com) |
-| 💼 LinkedIn | [linkedin.com/in/kaduesr](https://linkedin.com/in/kaduesr) (500+ connections) |
-| 📷 Instagram | [@kaduesr](https://instagram.com/kaduesr) |
-| ✈️ Telegram | [@kadudev](https://t.me/kadudev) |
-| 💬 WhatsApp | [(24) 99217-5577](https://wa.me/5524992175577) |
-| 🌐 Website | [kadudev.com](https://kadudev.com) |
+| Email | [contato@kadudev.com](mailto:contato@kadudev.com) |
+| LinkedIn | [linkedin.com/in/kaduesr](https://linkedin.com/in/kaduesr) (500+ connections) |
+| Instagram | [@kaduesr](https://instagram.com/kaduesr) |
+| Telegram | [@kadudev](https://t.me/kadudev) |
+| WhatsApp | [(24) 99217-5577](https://wa.me/5524992175577) |
+| Website | [kadudev.com](https://kadudev.com) |
 
 ---
 
@@ -255,8 +237,8 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 [![Docker](https://img.shields.io/badge/Docker-2579C2?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=500%2B%20connections)](https://linkedin.com/in/kaduesr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaduSR)
-[![BookPlay](https://img.shields.io/badge/BookPlay-Métodos%20Ágeis-7C3AED?style=for-the-badge&logo=book&logoColor=white)](https://bookplay.com.br/)
+[![BookPlay](https://img.shields.io/badge/BookPlay-Metodos%20Ageis-7C3AED?style=for-the-badge&logo=book&logoColor=white)](https://bookplay.com.br/)
 [![Anhanguera](https://img.shields.io/badge/Anhanguera-Engenharia%20de%20Software-006633?style=for-the-badge&logo=google&logoColor=white)](https://anhanguera.com.br/)
-[![Estácio](https://img.shields.io/badge/Estácio%20de%20Sá-Administração-1A237E?style=for-the-badge&logo=google&logoColor=white)](https://estacio.br/)
+[![Estacio](https://img.shields.io/badge/Estacio%20de%20Sa-Administracao-1A237E?style=for-the-badge&logo=google&logoColor=white)](https://estacio.br/)
 
 </div>
