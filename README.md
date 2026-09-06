@@ -1,3 +1,13 @@
+<!-- LANGUAGE_SELECTOR_START -->
+<details>
+<summary><b>🌐 Seletor de Idiomas / Language Selector</b></summary>
+
+| 🇧🇷 [Português](#-português) | 🇺🇸 [English](#-english) |
+|-------------------------------|---------------------------|
+
+</details>
+<!-- LANGUAGE_SELECTOR_END -->
+
 # Kadu Ribeiro · Engenheiro de Software & UX/UI Designer
 
 <div align="center">
@@ -73,7 +83,7 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 13. [assistente-ia](https://github.com/KaduSR/assistente-ia) — Assistente IA
 14. [TelegramDownload](https://github.com/KaduSR/telegramdownload) — Downloader Telegram (Python)
 15. [weathernow](https://github.com/KaduSR/weathernow) — Clima atual
-16. [dashboard-metrics](https://github.com/KaduSR/dashmetrics) — Dashboard métricas
+16. [dashmetrics](https://github.com/KaduSR/dashmetrics) — Dashboard métricas
 17. [taskflow](https://github.com/KaduSR/taskflow) — Gestão de tarefas
 18. [ecommerce-pro](https://github.com/KaduSR/ecommerce-pro) — E-commerce
 19. [design-system-aurora](https://github.com/KaduSR/design-system-aurora) — Design system
