@@ -102,12 +102,12 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 
 ## 🎓 Formação Acadêmica
 
-| Grau | Instituição | Conclusão |
+| Grau | Instituição | Status |
 |------|------------|-----------|
 | **Pós-Graduação** | BookPlay — Engenharia de Software Métodos Ágeis (rv3W) | Em curso |
 | **MBA** | BookPlay — Inteligência Artificial para Gestão de Pessoas (rv3W) | Em curso |
-| **Graduação** | Anhanguera — Engenharia de Software | Concluída |
-| **Bacharelado** | Estácio de Sá — Administração | Concluído |
+| **Graduação** | Anhanguera — Engenharia de Software | **Em curso** |
+| **Bacharelado** | Estácio de Sá — Administração | **Concluído** |
 
 ---
 
@@ -215,8 +215,8 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 |--------|------------|--------|
 | **Post-Graduation** | BookPlay — Software Engineering Agile Methods (rv3W) | In progress |
 | **MBA** | BookPlay — AI for People Management (rv3W) | In progress |
-| **Graduation** | Anhanguera — Software Engineering | Completed |
-| **Bachelor's** | Estácio de Sá — Business Administration | Completed |
+| **Graduation** | Anhanguera — Software Engineering | **In progress** |
+| **Bachelor's** | Estácio de Sá — Business Administration | **Completed** |
 
 ---
 
@@ -245,5 +245,8 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 [![Docker](https://img.shields.io/badge/Docker-2579C2?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=500%2B%20connections)](https://linkedin.com/in/kaduesr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaduSR)
+[![BookPlay](https://img.shields.io/badge/BookPlay-Métodos%20Ágeis-7C3AED?style=for-the-badge&logo=book&logoColor=white)](https://bookplay.com.br/)
+[![Anhanguera](https://img.shields.io/badge/Anhanguera-Engenharia%20de%20Software-006633?style=for-the-badge&logo=google&logoColor=white)](https://anhanguera.com.br/)
+[![Estácio](https://img.shields.io/badge/Estácio%20de%20Sá-Administração-1A237E?style=for-the-badge&logo=google&logoColor=white)](https://estacio.br/)
 
 </div>
