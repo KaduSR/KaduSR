@@ -51,11 +51,65 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 | [Whaticket SaaS](https://github.com/KaduSR/Whaticket-Saas) | Infra multi-tenant para Whaticket |
 | [Portfolio Pessoal](https://github.com/KaduSR/Portfolio-Pessoal) | Portfólio Next.js → [kadudev.com](https://kadudev.com) |
 
-### 🎓 Formação
+### 📚 Todos os Projetos (39 repositórios)
 
-- **Pós-Graduação:** BookPlay — Engenharia de Software Métodos Ágeis (rv3W)
-- **MBA:** BookPlay — Inteligência Artificial para Gestão de Pessoas (rv3W)
-- **Universidade:** UNOPAR — 6º semestre MongoDB
+#### 🥇 Top 9 — Projetos Profissionais
+
+1. [whaticket-fibernet](https://github.com/KaduSR/whaticket-fibernet) — SaaS WhatsApp + IA
+2. [fibernet-conciliador](https://github.com/KaduSR/fibernet-conciliador) — Conciliação financeira
+3. [isp-monitor](https://github.com/KaduSR/isp-monitor) — Monitoramento ISP em tempo real
+4. [nexus-core](https://github.com/KaduSR/nexus-core) — Engine automação infra ISP
+5. [ixc-sicoob-reconciler](https://github.com/KaduSR/ixc-sicoob-reconciler) — Conciliação bancária
+6. [chatrealtime](https://github.com/KaduSR/chatrealtime) — Chat WebSocket < 50ms
+7. [web-scraper](https://github.com/KaduSR/web-scraper) — Raspagem Python
+8. [Whaticket-Saas](https://github.com/KaduSR/Whaticket-Saas) — Infra multi-tenant
+9. [Portfolio-Pessoal](https://github.com/KaduSR/Portfolio-Pessoal) — Portfólio → kadudev.com
+
+#### 🥈 Projetos Adicionais (29 repos)
+
+10. [GFT-Desenvolvimento-Java-com-IA](https://github.com/KaduSR/GFT-Desenvolvimento-Java-com-IA) — Bootcamp GFT Java+IA ⭐1
+11. [myflix-micro](https://github.com/KaduSR/myflix-micro) — Microserviço MyFlix
+12. [50-projetos-em-50-dias](https://github.com/KaduSR/50-projetos-em-50-dias) — Desafio 50 projetos
+13. [assistente-ia](https://github.com/KaduSR/assistente-ia) — Assistente IA
+14. [TelegramDownload](https://github.com/KaduSR/telegramdownload) — Downloader Telegram (Python)
+15. [weathernow](https://github.com/KaduSR/weathernow) — Clima atual
+16. [dashboard-metrics](https://github.com/KaduSR/dashmetrics) — Dashboard métricas
+17. [taskflow](https://github.com/KaduSR/taskflow) — Gestão de tarefas
+18. [ecommerce-pro](https://github.com/KaduSR/ecommerce-pro) — E-commerce
+19. [design-system-aurora](https://github.com/KaduSR/design-system-aurora) — Design system
+20. [newsfeed](https://github.com/KaduSR/newsfeed) — Feed de notícias
+21. [fittracker](https://github.com/KaduSR/fittracker) — Rastreador fitness
+22. [galleryview](https://github.com/KaduSR/galleryview) — Galeria de imagens
+23. [schedule-pro](https://github.com/KaduSR/schedule-pro) — Agendamento
+24. [linkhub](https://github.com/KaduSR/linkhub) — Hub de links
+25. [paylink-saas](https://github.com/KaduSR/paylink-saas) — SaaS pagamentos
+26. [devblog-engine](https://github.com/KaduSR/devblog-engine) — Engine blog
+27. [landing-kit](https://github.com/KaduSR/landing-kit) — Landing pages
+28. [rockplayer](https://github.com/KaduSR/rockplayer) — Player música
+29. [MyFlix](https://github.com/KaduSR/MyFlix) — Plataforma streaming
+30. [HelpDesk](https://github.com/KaduSR/HelpDesk) — Help desk
+31. [helpdesk-front](https://github.com/KaduSR/helpdesk-front) — Front help desk
+32. [Blog-HTML](https://github.com/KaduSR/Blog-HTML) — Blog HTML
+33. [Todo-App-React](https://github.com/KaduSR/Todo-App-React) — Todo app
+34. [stack-builder](https://github.com/KaduSR/stack-builder) — Builder stack
+35. [Gerenciador-de-Prompts](https://github.com/KaduSR/Gerenciador-de-Prompts) — Gerenciador prompts
+36. [Vip-Club](https://github.com/KaduSR/Vip-Club) — Vip Club
+37. [whaticket-plus-vps](https://github.com/KaduSR/whaticket-plus-vps) — Deploy VPS
+38. [whaticket-plus-ixc-integration](https://github.com/KaduSR/whaticket-plus-ixc-integration) — Integração IXC
+39. [skills-introduction-to-github](https://github.com/KaduSR/skills-introduction-to-github) — Clone repo
+
+---
+
+## 🎓 Formação Acadêmica
+
+| Grau | Instituição | Conclusão |
+|------|------------|-----------|
+| **Pós-Graduação** | BookPlay — Engenharia de Software Métodos Ágeis (rv3W) | Em curso |
+| **MBA** | BookPlay — Inteligência Artificial para Gestão de Pessoas (rv3W) | Em curso |
+| **Graduação** | Anhanguera — Engenharia de Software | Concluída |
+| **Bacharelado** | Estácio de Sá — Administração | Concluído |
+
+---
 
 ### 📫 Contato
 
@@ -67,8 +121,6 @@ Atuo como **Tech Lead** com stack principal: **React, Next.js, TypeScript, Node.
 | ✈️ Telegram | [@kadudev](https://t.me/kadudev) |
 | 💬 WhatsApp | [(24) 99217-5577](https://wa.me/5524992175577) |
 | 🌐 Site | [kadudev.com](https://kadudev.com) |
-
-> Este perfil é o README oficial do meu GitHub. Para a versão completa do portfólio, visite [kadudev.com](https://kadudev.com).
 
 ---
 
@@ -108,11 +160,65 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 | [Whaticket SaaS](https://github.com/KaduSR/Whaticket-Saas) | Multi-tenant Whaticket infrastructure |
 | [Personal Portfolio](https://github.com/KaduSR/Portfolio-Pessoal) | Next.js portfolio → [kadudev.com](https://kadudev.com) |
 
-### 🎓 Education
+### 📚 All Projects (39 repositories)
 
-- **Post-Graduation:** BookPlay — Software Engineering Agile Methods (rv3W)
-- **MBA:** BookPlay — AI for People Management (rv3W)
-- **University:** UNOPAR — 6th semester MongoDB
+#### 🥇 Top 9 — Professional Projects
+
+1. [whaticket-fibernet](https://github.com/KaduSR/whaticket-fibernet) — WhatsApp SaaS + AI
+2. [fibernet-conciliador](https://github.com/KaduSR/fibernet-conciliador) — Financial reconciliation
+3. [isp-monitor](https://github.com/KaduSR/isp-monitor) — Real-time ISP monitoring
+4. [nexus-core](https://github.com/KaduSR/nexus-core) — ISP automation engine
+5. [ixc-sicoob-reconciler](https://github.com/KaduSR/ixc-sicoob-reconciler) — Bank reconciliation
+6. [chatrealtime](https://github.com/KaduSR/chatrealtime) — WebSocket chat < 50ms
+7. [web-scraper](https://github.com/KaduSR/web-scraper) — Python scraping
+8. [Whaticket-Saas](https://github.com/KaduSR/Whaticket-Saas) — Multi-tenant infra
+9. [Portfolio-Pessoal](https://github.com/KaduSR/Portfolio-Pessoal) — Portfolio → kadudev.com
+
+#### 🥈 Additional Projects (29 repos)
+
+10. [GFT-Desenvolvimento-Java-com-IA](https://github.com/KaduSR/GFT-Desenvolvimento-Java-com-IA) — GFT Bootcamp Java+AI ⭐1
+11. [myflix-micro](https://github.com/KaduSR/myflix-micro) — MyFlix microservice
+12. [50-projetos-em-50-dias](https://github.com/KaduSR/50-projetos-em-50-dias) — 50 projects challenge
+13. [assistente-ia](https://github.com/KaduSR/assistente-ia) — AI assistant
+14. [TelegramDownload](https://github.com/KaduSR/telegramdownload) — Telegram downloader (Python)
+15. [weathernow](https://github.com/KaduSR/weathernow) — Weather app
+16. [dashmetrics](https://github.com/KaduSR/dashmetrics) — Metrics dashboard
+17. [taskflow](https://github.com/KaduSR/taskflow) — Task management
+18. [ecommerce-pro](https://github.com/KaduSR/ecommerce-pro) — E-commerce
+19. [design-system-aurora](https://github.com/KaduSR/design-system-aurora) — Design system
+20. [newsfeed](https://github.com/KaduSR/newsfeed) — News feed
+21. [fittracker](https://github.com/KaduSR/fittracker) — Fitness tracker
+22. [galleryview](https://github.com/KaduSR/galleryview) — Image gallery
+23. [schedule-pro](https://github.com/KaduSR/schedule-pro) — Scheduling
+24. [linkhub](https://github.com/KaduSR/linkhub) — Link hub
+25. [paylink-saas](https://github.com/KaduSR/paylink-saas) — Payment SaaS
+26. [devblog-engine](https://github.com/KaduSR/devblog-engine) — Blog engine
+27. [landing-kit](https://github.com/KaduSR/landing-kit) — Landing pages
+28. [rockplayer](https://github.com/KaduSR/rockplayer) — Music player
+29. [MyFlix](https://github.com/KaduSR/MyFlix) — Streaming platform
+30. [HelpDesk](https://github.com/KaduSR/HelpDesk) — Help desk
+31. [helpdesk-front](https://github.com/KaduSR/helpdesk-front) — Help desk front
+32. [Blog-HTML](https://github.com/KaduSR/Blog-HTML) — HTML blog
+33. [Todo-App-React](https://github.com/KaduSR/Todo-App-React) — Todo app
+34. [stack-builder](https://github.com/KaduSR/stack-builder) — Stack builder
+35. [Gerenciador-de-Prompts](https://github.com/KaduSR/Gerenciador-de-Prompts) — Prompt manager
+36. [Vip-Club](https://github.com/KaduSR/Vip-Club) — VIP Club
+37. [whaticket-plus-vps](https://github.com/KaduSR/whaticket-plus-vps) — VPS deployment
+38. [whaticket-plus-ixc-integration](https://github.com/KaduSR/whaticket-plus-ixc-integration) — IXC integration
+39. [skills-introduction-to-github](https://github.com/KaduSR/skills-introduction-to-github) — Clone repo
+
+---
+
+## 🎓 Academic Background
+
+| Degree | Institution | Status |
+|--------|------------|--------|
+| **Post-Graduation** | BookPlay — Software Engineering Agile Methods (rv3W) | In progress |
+| **MBA** | BookPlay — AI for People Management (rv3W) | In progress |
+| **Graduation** | Anhanguera — Software Engineering | Completed |
+| **Bachelor's** | Estácio de Sá — Business Administration | Completed |
+
+---
 
 ### 📫 Contact
 
@@ -124,8 +230,6 @@ Working as a **Tech Lead** with main stack: **React, Next.js, TypeScript, Node.j
 | ✈️ Telegram | [@kadudev](https://t.me/kadudev) |
 | 💬 WhatsApp | [(24) 99217-5577](https://wa.me/5524992175577) |
 | 🌐 Website | [kadudev.com](https://kadudev.com) |
-
-> This profile is the official README of my GitHub. For the full portfolio, visit [kadudev.com](https://kadudev.com).
 
 ---
 
