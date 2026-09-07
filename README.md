@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KaduSR/KaduSR/raw/main/assets/banner.png" alt="Banner" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/KaduSR/KaduSR/main/assets/banner.png" alt="Banner" style="max-width: 100%;">
 
   # Kadu Ribeiro
   ### Software Engineer | Tech Lead | UX/UI Designer
@@ -108,5 +108,4 @@ Currently working as a **Tech Lead** with main stack: **React, Next.js, TypeScri
 
 <div align="center">
   <p>⭐ Star me on GitHub if you find my work interesting!</p>
-  <img src="https://raw.githubusercontent.com/KaduSR/KaduSR/main/assets/divider.png" alt="divider">
 </div>
