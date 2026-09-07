@@ -1,9 +1,3 @@
-<!-- LANGUAGE_SELECTOR_START -->
-<div align="right">
-  <strong>🇺🇸 English</strong> | <a href="README.pt.md">🇧🇷 Português</a>
-</div>
-<!-- LANGUAGE_SELECTOR_END -->
-
 <div align="center">
   <img src="https://github.com/KaduSR/KaduSR/raw/main/assets/banner.png" alt="Banner" style="max-width: 100%;">
 
@@ -40,9 +34,7 @@
 
 ---
 
-## 🇺🇸 English
-
-### About Me
+## About Me
 
 **Kadu Ribeiro** — Software Engineer with **9+ years of experience** in the Telecommunications sector. I transform ideas into high-impact digital products by combining **robust software engineering** with **user-focused interface design**.
 
