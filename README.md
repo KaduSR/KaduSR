@@ -51,6 +51,7 @@ Currently working as a **Tech Lead** with main stack: **React, Next.js, TypeScri
 - **Tech Lead** — Nexus Flow Tech *(Full Stack, AI, Automation)*
 - **Telecom Infrastructure** — FiberNET *(monitoring, financial reconciliation, WhatsApp automation)*
 - **Full Stack Development** — Node.js, Next.js, React, TypeScript, PostgreSQL, Prisma
+- **Full Stack Development** — PionG Plus
 
 ### 🛠️ Technologies
 
